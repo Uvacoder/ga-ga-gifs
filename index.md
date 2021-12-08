@@ -1,4 +1,4 @@
 ---
-title: Gif Collection
+title: Ga Ga Gifs
 layout: home
 ---
