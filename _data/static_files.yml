@@ -1,14 +1,12 @@
 ---
 - title: code.gif
   category: web-dev
-  path: webdev/code.gif
+  path: web-dev/code.gif
   modified_time: 1594700003
   tags:
   - code
   - gif
   - dev
-  tags:
-  - code
 - title: cat-headbob.gif
   category: headbob
   path: headbob/cat-headbob.gif
